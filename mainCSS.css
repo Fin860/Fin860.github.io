@@ -1,0 +1,30 @@
+.whole-page{
+    width:10vw;
+    height:90vh;
+    background: white;
+    font-size: 1vw;
+    position: relative;
+    background: lime;
+}
+
+.imgbox{
+    width:30vw;
+    height:50vh;
+    position: relative;
+    left: 65vw;
+    top: 40vh;
+}
+.chrbox{
+    width:95vw;
+    height:20vh;
+    position: absolute;
+    top: 0vh;
+}
+.information-box{
+    width:30vw;
+    height:50vh;
+    position: relative;
+    top: -20vh;
+    left: 10vw;
+    background: white;
+}
